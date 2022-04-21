@@ -2,6 +2,8 @@
 
 ### **Welcome 👋**
 
+See the dApp live at: https://solana-gif-collection-portal.herokuapp.com/
+
 To get started, clone this repo and follow these commands:
 
 1. Run `npm install` at the root of your directory
